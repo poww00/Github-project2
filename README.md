@@ -2,3 +2,4 @@
 
 -Push Test
 -fecth Test
+-pull Test
